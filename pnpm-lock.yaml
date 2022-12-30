@@ -9,7 +9,7 @@ specifiers:
   eslint-plugin-import: ^2.25.2
   eslint-plugin-n: ^15.0.0
   eslint-plugin-promise: ^6.0.0
-  gsap: ^3.11.3
+  gsap: ^3.11.4
   postcss: ^8.4.19
   postcss-scss: ^4.0.6
   prettier: ^2.8.0
@@ -24,7 +24,7 @@ specifiers:
   vite: ^3.2.3
 
 dependencies:
-  gsap: 3.11.3
+  gsap: 3.11.4
 
 devDependencies:
   '@typescript-eslint/eslint-plugin': 5.44.0_fnsv2sbzcckq65bwfk7a5xwslu
@@ -1618,8 +1618,8 @@ packages:
     resolution: {integrity: sha512-bzh50DW9kTPM00T8y4o8vQg89Di9oLJVLW/KaOGIXJWP/iqCN6WKYkbNOF04vFLJhwcpYUh9ydh/+5vpOqV4YQ==}
     dev: true
 
-  /gsap/3.11.3:
-    resolution: {integrity: sha512-xc/iIJy+LWiMbRa4IdMtdnnKa/7PXEK6NNzV71gdOYUVeTZN7UWnLU0fB7Hi1iwiz4ZZoYkBZPPYGg+2+zzFHA==}
+  /gsap/3.11.4:
+    resolution: {integrity: sha512-McHhEguHyExMMnjqKA8G+7TvxmlKQGMbjgwAilnFe1e4id7V/tFveRQ2YMZhTYu0oxHGWvbPltdVYQOu3z1SCA==}
     dev: false
 
   /hard-rejection/2.1.0:
