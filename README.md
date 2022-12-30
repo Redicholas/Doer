@@ -4,7 +4,7 @@ Doer is a todo app built with HTML, Tailwind CSS and TypeScript.
 It allows you to keep track of your tasks and mark them as completed.
 
 <h2>Features</h2>
-Add new tasks <br>
+Add and delete tasks <br>
 Set deadline <br>
 Mark tasks as completed <br>
 Three categories <br>
