@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/fed22d-js-grundkurs-2-todo-Redicholas/',
+  base: '/Doer/',
   define: {
     'process.env': {},
   },
